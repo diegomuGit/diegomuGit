@@ -1,7 +1,7 @@
 # Diego Muñoz Alonso
 
 **Data Scientist** · Machine learning, LLMs & production analytics in banking  
-Madrid, Spain · Open to roles in Madrid & London · English C1 · Spanish native
+Madrid, Spain · English C1 · Spanish native
 
 I build ML and GenAI systems for financial services, with production ownership in banking risk/liquidity data and a strong MIAX background in applied AI for markets.
 
