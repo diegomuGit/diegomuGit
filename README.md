@@ -11,11 +11,12 @@ I build ML and GenAI systems for financial services, with production ownership i
 
 ## Featured projects
 - **[Research agent over SEC 10-K filings](https://github.com/GRUPO-TFM/B5T2-agentes)** — LangChain/LangGraph + hybrid RAG (FAISS+BM25, BGE) with golden-set evaluation
-- **[Explainable credit-risk decisions](https://github.com/diegomuGit/14-xai-credit-scoring-credito)** — cost-sensitive models + SHAP / XAI for credit scoring
-- **[Synthetic financial data](https://github.com/diegomuGit/MIAX-B5T1-Datos-Sinteticos)** — deep generative models (VAE, RealNVP, Diffusion-TS) in PyTorch
-- **[Neural return forecasting](https://github.com/diegomuGit/MIAX-B3T4-Forecasting_Returns_NN)** — deep learning for asset returns
-- **[Causal graphs in finance](https://github.com/diegomuGit/MIAX-B3T3-Causal_Graph)** — causal discovery applied to financial relationships
-- **[Momentum backtesting](https://github.com/diegomuGit/MIAX-B2T5-Backtesting)** — systematic backtests on MSCI / S&P 500
+- **[Explainable credit-risk decisions](https://github.com/diegomuGit/xai-credit-scoring)** — cost-sensitive models + SHAP / XAI for credit scoring
+- **[Synthetic financial data](https://github.com/diegomuGit/synthetic-financial-data)** — deep generative models (VAE, RealNVP, Diffusion-TS) in PyTorch
+- **[Neural return forecasting](https://github.com/diegomuGit/neural-return-forecasting)** — deep learning for asset returns
+- **[Causal graphs in finance](https://github.com/diegomuGit/causal-graphs-finance)** — causal discovery applied to financial relationships
+- **[Momentum backtesting](https://github.com/diegomuGit/momentum-backtesting-sp500)** — systematic backtests on MSCI / S&P 500
+- **[Market regime stress testing](https://github.com/diegomuGit/market-regime-stress-testing)** — HMM, GARCH, and copulas for risk regimes
 
 ## Stack
 `Python` · `SQL` · `PySpark` · `scikit-learn` · `PyTorch` · `LangChain` / `LangGraph` · `XAI (SHAP)` · `SageMaker` · `Athena` · `Git`
